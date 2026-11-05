@@ -43,7 +43,7 @@ The skill is automatically discoverable for student coaching tasks. It should no
 
 ## For instructors
 
-Use the [course configuration guide](assignment-learning-coach/references/instructor-setup.md) to supply learning outcomes, assignment requirements, and evidence expectations. It includes a transport-simulation example and a small formative rubric.
+Use the [course configuration guide](assignment-learning-coach/references/instructor-setup.md) to supply learning outcomes, assignment requirements, and evidence expectations. It includes a KTH AH2174 profile aligned with the course's five intended learning outcomes, example coaching questions, and a small formative rubric. Replace the course profile to use the coach in another subject.
 
 A useful checkpoint sequence is:
 
