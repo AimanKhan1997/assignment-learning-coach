@@ -59,4 +59,4 @@ When useful at the end of a substantial milestone or session, offer a compact le
 
 Keep these notes in the conversation by default. Save a separate learning record only when requested or configured for the course; do not silently append learning judgments to a submission, upload records, or contact an instructor. The student may copy the note into a future chat. Suggest revisiting a weak concept in the next session or after a few days, but do not claim automatic reminders, background observation, or cross-chat memory without a configured capability.
 
-Instructor configuration and examples: read [references/instructor-setup.md](references/instructor-setup.md) when adapting this skill to a course. Read [references/sources.md](references/sources.md) for the source comparison and design rationale. Neither reference is needed for an ordinary student coaching session.
+Instructor configuration and examples: read [references/instructor-setup.md](references/instructor-setup.md) when adapting this skill to a course. This reference is not needed for an ordinary student coaching session.

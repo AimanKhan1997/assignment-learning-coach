@@ -62,7 +62,7 @@ This is a formative learning aid. A student-controlled prompt cannot enforce par
 
 ## Inspiration and attribution
 
-The design considers [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills), [Matt Pocock's teaching and grilling skills](https://github.com/mattpocock/skills), [AnerGcorp/VibeLearn](https://github.com/AnerGcorp/vibelearn), and [MatthewKim07/vibe-learn](https://github.com/MatthewKim07/vibe-learn). See [sources and adaptation choices](assignment-learning-coach/references/sources.md).
+The design considers [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills), [Matt Pocock's teaching and grilling skills](https://github.com/mattpocock/skills), [AnerGcorp/VibeLearn](https://github.com/AnerGcorp/vibelearn), and [MatthewKim07/vibe-learn](https://github.com/MatthewKim07/vibe-learn).
 
 These are design inspirations. Their software is not bundled, and this project does not require their services.
 
